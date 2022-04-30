@@ -8,6 +8,18 @@ const Style: NextPage = () => {
         <div>
           -{' '}
           <a
+            href="https://qiita.com/unr/items/8de632d48bfa72d3f149"
+            rel="noreferrer"
+            target="_blank"
+            className="underline"
+          >
+            React + Nextjs + TypeScript による Vercel CDN
+            からの静的コンテンツ配信
+          </a>
+        </div>
+        <div>
+          -{' '}
+          <a
             href="https://qiita.com/unr/items/c627a9b25628441e64f3"
             rel="noreferrer"
             target="_blank"
@@ -16,7 +28,6 @@ const Style: NextPage = () => {
             React による シングルページWebアプリケーション (SPA) の開発
           </a>
         </div>
-        {/* <div>　</div> */}
         <div>
           -{' '}
           <a
