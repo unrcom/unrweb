@@ -8,6 +8,17 @@ const Style: NextPage = () => {
         <div>
           -{' '}
           <a
+            href="https://qiita.com/unr/items/8026bb79216811b9debb"
+            rel="noreferrer"
+            target="_blank"
+            className="underline"
+          >
+            エンジニアとは何か
+          </a>
+        </div>
+        <div>
+          -{' '}
+          <a
             href="https://qiita.com/unr/items/8de632d48bfa72d3f149"
             rel="noreferrer"
             target="_blank"
